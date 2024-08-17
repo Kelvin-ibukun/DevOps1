@@ -1,10 +1,10 @@
 # My name is IBK
 
-Welcome to my world
+Welcome aboard
 
-![1](pic/1.png)
+![1](Pic/01.png)
 
-Hi people
+Hello people
 
 - First task
 
@@ -14,5 +14,5 @@ Hi people
 
 2. HER
 
-**Hi World**
+**Hello world**
 
