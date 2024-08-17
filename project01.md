@@ -1,8 +1,8 @@
-# My name is Ibk
+# My name is IBK
 
 Welcome to my world
 
-![1](img/1.png)
+![1](images/1.png)
 
 Hi people
 
@@ -14,7 +14,5 @@ Hi people
 
 2. HER
 
-**Hi world**.
+**Hi World**
 
-> [!NOTE]
-This explains things.
