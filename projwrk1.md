@@ -2,7 +2,7 @@
 
 Welcome to my world
 
-![1](images/1.png)
+![1](pic/1.png)
 
 Hi people
 
